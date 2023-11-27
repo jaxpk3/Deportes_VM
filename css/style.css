@@ -132,7 +132,10 @@ nav .navbar-collapse.show > ul {
   object-fit: scale-down; /*Esto soluciona el problema del estiramiento*/
 }
 
+.img-fluid{
 
+  object-fit: scale-down;
+}
 
 
 
