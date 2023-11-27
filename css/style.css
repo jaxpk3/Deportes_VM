@@ -130,6 +130,7 @@ nav .navbar-collapse.show > ul {
   margin: auto;
   /* display: block; */
   object-fit: scale-down; /*Esto soluciona el problema del estiramiento*/
+  position:sticky;
 }
 
 .img-fluid{
@@ -138,6 +139,12 @@ nav .navbar-collapse.show > ul {
 }
 
 
+/*Esto es para modificar las flechas*/
+
+/* .img-flecha{
+  position: absolute;
+  object-fit: scale-down;
+} */
 
 
 
